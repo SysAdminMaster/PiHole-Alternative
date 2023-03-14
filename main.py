@@ -1,5 +1,4 @@
 import requests
-import ctypes, os
 blocklist = requests.get("https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts").text
 
 try:
