@@ -11,7 +11,7 @@ This scrape takses the StevenBlack hosts file & puts it into your computers host
 Here are the steps to get this program working.
 
 ```bash
-  pip install requests
+ pip install requests
 ```
 Run the script as Administrator
 ```bash
